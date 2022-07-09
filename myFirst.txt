@@ -4,3 +4,7 @@ this is only a test
 
 
 Can U C Me?
+
+Well, this went pretty good. First  add, then commit followed by push
+
+Let's see what this edit does when done from within github
